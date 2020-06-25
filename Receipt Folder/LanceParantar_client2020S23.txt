@@ -1,0 +1,12 @@
+Lance Banking Receipt
+06/22/2020 : 16:08:13
+
+Client Name: Lance Parantar
+
+Activities: 
+Deposit: 30.0 
+
+Total:   30.0
+
+Current Balance: 3233.00
+Please Come Again!

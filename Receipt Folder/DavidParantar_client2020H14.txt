@@ -1,0 +1,14 @@
+Lance Banking Receipt
+06/22/2020 : 16:09:56
+
+Client Name: David Parantar
+
+Activities: 
+Withdraw: 400.0 
+Deposit:  500.0 
+Withdraw: 4000.0 
+
+Total:   4900.0
+
+Current Balance: 2371.00
+Please Come Again!
