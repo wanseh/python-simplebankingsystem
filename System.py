@@ -79,7 +79,7 @@ def options_2(opt, client_name):
     f = opt2.get(opt, default_val)
     return f()
 
-# This is where create account are made using a dictionary that maps the user's name
+# This is where created accounts are made using a dictionary that maps the user's name
 # to its money, pin, and code.
 def create_acc():
     name = input("Enter Name: ")
